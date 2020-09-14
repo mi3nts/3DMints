@@ -38,7 +38,8 @@
     
 -  Change All settings 
     - On the right hand side of the main window hit the edit icon and do the following corrections. 
-     <br/>
+
+
      ![All Settings](https://github.com/mi3nts/3DMints/raw/master/res/settings.png)
     
   - Add the selcted .stl file 
