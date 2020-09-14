@@ -26,11 +26,13 @@
 
 - Open Settings > Extruder 1 > Materials > Manage Materials 
     - On the right hand pane under custom material fill in the following:
+ <br/>
     ![Custom Printer 1](https://github.com/mi3nts/3DMints/blob/master/res/customize1.png)
-    ![Custom Printer 1](https://github.com/mi3nts/3DMints/blob/master/res/customize2.png)
+    ![Custom Printer 2](https://raw.githubusercontent.com/mi3nts/3DMints/master/res/cuztomize2.png)
       
 -  Change All settings 
     - On the right hand side of the main window hit the edit icon and do the following corrections. 
+     <br/>
      ![All Settings](https://github.com/mi3nts/3DMints/raw/master/res/settings.png)
     
   - Add the selcted .stl file 
