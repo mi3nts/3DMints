@@ -28,7 +28,7 @@
     - On the right hand pane under custom material fill in the following:
 
     ![Custom Printer 1](https://github.com/mi3nts/3DMints/raw/master/res/cuztomize2.png)
-    ![Custom Printer 2](https://raw.githubusercontent.com/mi3nts/3DMints/master/res/cuztomize2.png)
+    ![Custom Printer 2](https://github.com/mi3nts/3DMints/raw/master/res/cuztomize1.png)
       
 -  Change All settings 
     - On the right hand side of the main window hit the edit icon and do the following corrections. 
