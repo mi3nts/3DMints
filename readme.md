@@ -24,5 +24,16 @@
             Nozzle size 0.4mm 
             Compatible Material Diameter 1.75
 
+- Open Settings > Extruder 1 > Materials > Manage Materials 
+    - On the right hand pane under custom material fill in the following:
+      
+-  Change All settings 
+    - On the right hand side of the main window hit the edit icon and do the following corrections. 
+    
+  - Add the selcted .stl file 
+    - File> Open File(s)
 
+- Hit the slice on the bottom right hand corner and save your gcode to a preffered location.   
+
+    
 
