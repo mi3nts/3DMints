@@ -26,8 +26,14 @@
 
 - Open Settings > Extruder 1 > Materials > Manage Materials 
     - On the right hand pane under custom material fill in the following:
+
+
+
+
     ![Custom Printer 1](https://github.com/mi3nts/3DMints/blob/master/res/customize1.png)
-    ![Custom Printer 2](https://github.com/mi3nts/3DMints/raw/master/res/cuztomize2.png)
+
+
+![Custom Printer 2](https://github.com/mi3nts/3DMints/raw/master/res/cuztomize2.png)
     
     
 -  Change All settings 
