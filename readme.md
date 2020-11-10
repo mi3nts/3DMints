@@ -33,14 +33,14 @@
     ![Custom Printer 1](https://github.com/mi3nts/3DMints/blob/master/res/customize1.png)
 
 
-![Custom Printer 2](https://github.com/mi3nts/3DMints/raw/master/res/cuztomize2.png)
+![Custom Printer 2](https://github.com/mi3nts/3DMints/raw/master/res/910AlloySettings.png)
     
     
 -  Change All settings 
     - On the right hand side of the main window hit the edit icon and do the following corrections. 
 
 
-     ![All Settings](https://github.com/mi3nts/3DMints/raw/master/res/settings.png)
+     ![All Settings](https://github.com/mi3nts/3DMints/raw/master/res/settingsCura.png)
     
   - Add the selcted .stl file 
     - File> Open File(s)
